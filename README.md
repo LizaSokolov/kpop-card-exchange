@@ -55,7 +55,7 @@ K-pop Card Exchange is an online platform where K-pop fans can find and propose 
 
 3. Run the backend server:
     ```bash
-    npm start
+    npm run start
     ```
 
 4. The server will be available on `http://localhost:8080`.
