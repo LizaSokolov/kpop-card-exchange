@@ -78,6 +78,13 @@ K-pop Card Exchange is an online platform where K-pop fans can find and propose 
 
 4. The app will be available on `http://localhost:3000`.
 
+5. Documentation 
+https://documenter.getpostman.com/view/40123513/2sAYkHpySt
+
+https://documenter.getpostman.com/view/40123513/2sAYkHpySu
+
+https://documenter.getpostman.com/view/40123513/2sAYkHpySv
+
 ## Contributing
 
 Feel free to fork this project, make improvements, and open a pull request. Contributions are always welcome!
